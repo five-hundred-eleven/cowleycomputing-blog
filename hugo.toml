@@ -1,4 +1,4 @@
-baseURL = "https://cowleycomputing.com"
+baseURL = "https://notes.cowleycomputing.com"
 languageCode = "en-us"
 title = "Erik's Notes"
 theme="archie"
