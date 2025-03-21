@@ -7,7 +7,7 @@ date: '2023-10-17'
 
 See [ghostland-game](https://github.com/five-hundred-eleven/ghostland-game) on github.
 
-
+<video controls width=480 autoplay="true"><source src="https://cowleycomputing.com/content/ghostland_6.webm" type="video/webm" /></video>
 
 There have been a few updates since the last post.
 

@@ -13,4 +13,4 @@ I use [github.com/veandco/go-sdl2](https://github.com/veandco/go-sdl2) for the r
 
 In the current iteration, everything is done in CPU. Due to the simple nature of this project it still achieves a high framerate. In the future I hope to do another iteration that brings in OpenGL.
 
-
+<video controls width=480 autoplay="true"><source src="https://cowleycomputing.com/content/goland_3.webm" type="video/webm" /></video>
