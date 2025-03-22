@@ -9,3 +9,5 @@ This site's stack:
 * https://pages.github.com/
 * https://gohugo.io/
 * https://github.com/athul/archie
+
+![Vikings at Straumsey, an island mentioned in the Sage of Erik the Red](https://stromsy.nfshost.com/content/vikings_at_straumsey_banner-9.png)
